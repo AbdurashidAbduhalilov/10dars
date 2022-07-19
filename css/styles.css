@@ -57,7 +57,7 @@ body{
 }
 @media(max-width:786px){
     .col{
-        width: 45%;
+        width: 35%;
     } 
     nav a{
         display: none;
@@ -89,6 +89,10 @@ body{
     }
     .burger-konteyner{
         display: block;
+    }
+    .bold{
+        margin-left: 300px;
+    font-size: 20px;
     }
 }
 @media(max-width:500px){
