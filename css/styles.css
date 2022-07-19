@@ -35,7 +35,7 @@ nav a{
     padding: 7px 13px;
 }
 .col{
-    width: 30%;
+    width: 26%;
     min-height: 100px;
     background-color: gold;
     margin-bottom: 40px;
@@ -57,7 +57,7 @@ body{
 }
 @media(max-width:786px){
     .col{
-        width: 35%;
+        width: 150px;
     } 
     nav a{
         display: none;
